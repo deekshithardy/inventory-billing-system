@@ -34,21 +34,6 @@ It enables efficient management of products, customers, and automated invoice ge
 
 ---
 
-## 📸 Screenshots
-
-### 🔐 Login Page
-![Login](screenshots/login.png)
-
-### 📊 Dashboard
-![Dashboard](screenshots/dashboard.png)
-
-### 📦 Products
-![Products](screenshots/products.png)
-
-### 🧾 Invoice
-![Invoice](screenshots/invoice.png)
-
----
 
 ## 🛠️ Tech Stack
 
